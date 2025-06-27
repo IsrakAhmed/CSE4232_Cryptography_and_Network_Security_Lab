@@ -1,1 +1,1 @@
-# CSE4232_Cryptography_and_Network_Security_Lab
+# CSE4232 Cryptography and Network Security Lab
