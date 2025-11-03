@@ -7,7 +7,7 @@
 
 ✅ 2. Find out the Polygram Substitution Cipher of a given plaintext (Consider the block size of 3). Then perform the reverse operation to get original plaintext. 
 
-✅ 3. Consider the plaintext “DEPARTMENT OF COMPUTER SCIENCE AND TECHNOLY UNIVERSITY OF RAJSHAHI BANGLADESH”, find out the corresponding Transposition Cipher (Take width as input). Then perform the reverse operation to get original plaintext.
+✅ 3. Consider the plaintext “DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING UNIVERSITY OF RAJSHAHI BANGLADESH”, find out the corresponding Transposition Cipher (Take width as input). Then perform the reverse operation to get original plaintext.
 
 ✅ 4. Find out corresponding double Transposition Cipher of the above plaintext. Then perform the reverse operation to get original plaintext.
 
@@ -24,5 +24,9 @@
 ✅ 10. Encrypt the plaintext message using RSA algorithm. Then perform the reverse operation to get original plaintext.
 
 ✅ 11. Write a program to implement Diffie-Hellman Key Exchange.
+
+✅ 12. Write a program to implement the following services of PGP. You have to follow all the steps mentioned in the algorithms.
+		a.Authentication
+		b.Confidentiality for transmitting data.
 
 ---
